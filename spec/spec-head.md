@@ -26,3 +26,5 @@ This is a ref outside terms and definitions: [[ref: compost]].
 This is a ref outside terms and definitions: [[ref: compost]].
 
 :::
+
+![A test image showing a green plant in a pot made of glass](https://raw.githubusercontent.com/kordwarshuis/spec-up-t-demo/main/assets/img/picsum-photos-test.jpg)
